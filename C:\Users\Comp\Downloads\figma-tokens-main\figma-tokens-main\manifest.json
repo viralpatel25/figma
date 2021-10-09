@@ -3,6 +3,22 @@
     "landscapre": {
       "value": "1200*600",
       "type": "sizing"
+    },
+    "border": {
+      "value": "2px",
+      "description": "Do not use more than value that described.",
+      "type": "borderRadius"
+    },
+    "Heading": {
+      "value": {
+        "fontFamily": "poppins",
+        "fontWeight": "400",
+        "lineHeight": "1",
+        "fontSize": "40px",
+        "letterSpacing": "1",
+        "paragraphSpacing": "1"
+      },
+      "type": "typography"
     }
   }
 }
